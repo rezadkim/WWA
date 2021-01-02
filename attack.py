@@ -1,12 +1,8 @@
 import os, time, requests, json
-from bs4 import BeautifulSoup
+
 g = ("\33[0;32m")#Green")
-gl = ("\33[32;1m")#GreenLight")
 b = ("\33[0;36m")#Blue")
-bl = ("\33[36;1m")#BlueLight")
 red = ("\33[31;1m")#Red")
-w = ("\33[37;1m")#White")
-black = ("\33[30;1m")#Black")
 y = ("\33[33;1m")#Yellow")
 yl = ("\33[1;33m")#YellowLight")
 ttp = ("\033[0m")#LightGrey")
